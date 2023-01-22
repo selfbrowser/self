@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,700&display=swap');
+
+.newsbody {
+    height: fit-content;
+	background-color: #c7ecff;
+	font-family: 'Muli', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+	margin: 0;
+}
+
+.newsletter {
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+	border-radius: 20px;
+	box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+	padding: 30px;
+	text-align: center;
+	max-width: 500px;
+}
+
+.newsletter h2 {
+	margin: 10px 0 0;
+}
+
+.newsletter p {
+	color: #312940;
+	margin: 10px;
+}
+
+.newsletter img {
+	max-width: 100%;
+	width: 400px;
+}
+
+.form-control {
+	position: relative;
+	margin: 30px 0 20px;
+}
+
+.forminput {
+    box-sizing: border-box;
+	border: 0;
+	border-radius: 50px;
+	box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+	display: block;
+	font-family: 'Muli', sans-serif;
+	font-size: 14px;
+	height: 42px;
+	padding: 12px 25px;
+	width: 100%;
+}
+
+.formbtn {
+	background-color: #312940;
+	border: 0;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 14px;
+	height: 42px;
+	padding: 12px 25px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.forminput:focus, .formbtn:focus {
+	outline: 0;
+}
+
+/* SOCIAL PANEL CSS */
