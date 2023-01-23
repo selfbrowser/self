@@ -609,10 +609,13 @@ pagespeed.lazyLoadInit(true, "/pagespeed_static/1.JiBnMqyl6S.gif");
       <img src="https://lh3.google.com/u/0/d/1-WTX2Kw4ZlgLnwT9gYyFOxVXowT9eS-t=w1375-h881-iv1" alt="" />
       <h2>Subscribe to our Newsletter</h2>
       <p>Our weekly newsletter provides you with the latest and most important happenings in the industry.</p>
-      <div class="form-control">
-        <input type="text" class="forminput" placeholder="Enter e-mail adress" />
-        <button class="formbtn">Subscribe</button>
-      </div>
+       <form 
+        method="POST" 
+        action="https://script.google.com/macros/s/AKfycbyaUEskqvVM1oehXSA2ClQ7ZPeCOLwNluev9GpPFGKCTkFgPYjEC7jrf8Vr5leHoWC2HA/exec">
+        <input name="Email" type="email" placeholder="Email" required>
+        <input name="Name" type="text" placeholder="Name" required>
+        <button type="submit">Submit</button>
+      </form>
       
     </div>
 </div>
