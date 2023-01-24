@@ -9,7 +9,7 @@
     background-color: #0f72e5;
     width: 450px;
     padding: 30px 40px;
-    position: absolute;
+    position: fixed;
     transform: translate(-50%,-50%);
     left: 50%;
     top: 50%;
