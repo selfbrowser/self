@@ -8,6 +8,7 @@
 
 .popup{
     background-image: url('self/assets/images/scrolling_gradient.png');
+    transform: translate(-50%,-50%);
     width: 450px;
     padding: 30px 40px;
     position: absolute;
