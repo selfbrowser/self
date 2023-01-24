@@ -7,7 +7,7 @@
 }
 
 .popup{
-    background-image: url('./assets/images/scrolling_gradient.png');
+    background-image: url('self/assets/images/scrolling_gradient.png');
     width: 450px;
     padding: 30px 40px;
     position: absolute;
