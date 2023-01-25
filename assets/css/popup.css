@@ -5,8 +5,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+.popuph2{
+    color: #fff
+}
 .popup{
-    background-color: #d873ff;
+    background-color: #fc92ab;
     width: 450px;
     padding: 30px 40px;
     position: fixed;
