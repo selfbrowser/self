@@ -8,8 +8,12 @@
 .popup h2{
     color: #fff;
 }
+.popup button{
+    color: #fff;
+    font-weight: 500;
+}    
 .popup{
-    background-color: #0898e7;
+    background-color: #052e44;
     width: 450px;
     padding: 30px 40px;
     position: fixed;
