@@ -518,9 +518,8 @@ p {
 .navbar-brand {
   padding: 0; }
   .navbar-brand img {
-    max-width: 150px;
 	  max-height: 50px;
-}
+    	  max-width: 150px;}
 
 .navbar-toggler {
   padding: 0; }
