@@ -1,20 +1,5 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: AppLand
-    Template URI: uideck.com/templates/appland
-    Support: https://uideck.com/support/
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
-    01. Theme default CSS
-	02. Header
-    03. Hero
-	04. Footer
-
 -----------------------------------------------------------------------------------*/
 /*===========================
       01.COMMON css 
@@ -533,7 +518,9 @@ p {
 .navbar-brand {
   padding: 0; }
   .navbar-brand img {
-    max-width: 150px; }
+    max-width: 150px;
+	  max-height: 50px;
+}
 
 .navbar-toggler {
   padding: 0; }
